@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://www.tech-mindfactory.com/revoke-list.json",
+    "id": "https://raw.githubusercontent.com/juancazarezg/tmf-issuer-data/main/revoke-list.json",
     "type": "RevocationList",
     "issuer": "https://www.tech-mindfactory.com",
     "revokedAssertions": [
